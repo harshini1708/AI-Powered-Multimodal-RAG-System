@@ -1,0 +1,1 @@
+# Fix asset paths and diagram references

@@ -1,0 +1,1 @@
+# Connect retriever with LangChain multi-vector index

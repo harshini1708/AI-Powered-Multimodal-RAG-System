@@ -1,0 +1,1 @@
+# Embed text summaries using OpenAI embeddings
