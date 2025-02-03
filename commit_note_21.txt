@@ -1,1 +1,0 @@
-# Optimize LLM response formatting

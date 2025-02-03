@@ -1,1 +1,0 @@
-# Build retrieval pipeline for RAG Option 1 (raw image)

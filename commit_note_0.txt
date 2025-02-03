@@ -1,1 +1,0 @@
-# Initialize project directory and configuration

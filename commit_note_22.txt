@@ -1,1 +1,0 @@
-# Refactor ingestion script with config options

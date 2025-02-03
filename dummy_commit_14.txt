@@ -1,1 +1,0 @@
-Commit 14 - Integrate embeddings and ChromaDB retriever
