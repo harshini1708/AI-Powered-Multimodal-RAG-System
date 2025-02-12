@@ -106,3 +106,4 @@ classmethod-decorators = ["classmethod", "pydantic.validator", "pydantic.root_va
 
 [tool.ruff.lint.pydocstyle]
 convention = "google"
+# Minor config polish
