@@ -1,0 +1,1 @@
+Commit 12 - Implement table/image parsing and summarization
