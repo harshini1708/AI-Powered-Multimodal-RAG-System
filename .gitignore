@@ -167,3 +167,4 @@ outputs/*
 
 !/**/.gitkeep
 !docs/Attention.pdf
+# Ignore dev config
