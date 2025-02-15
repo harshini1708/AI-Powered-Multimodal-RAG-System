@@ -12,3 +12,4 @@ serve_backend:
 
 serve_frontend:
 	poetry run python -m streamlit run frontend/front.py
+# Rebuild step added
